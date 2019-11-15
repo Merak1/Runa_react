@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Runa_react/static/css/main.7965ddac.chunk.css",
+    "main.js": "/Runa_react/static/js/main.a30a8017.chunk.js",
+    "main.js.map": "/Runa_react/static/js/main.a30a8017.chunk.js.map",
+    "runtime-main.js": "/Runa_react/static/js/runtime-main.1937fa71.js",
+    "runtime-main.js.map": "/Runa_react/static/js/runtime-main.1937fa71.js.map",
+    "static/js/2.447f8621.chunk.js": "/Runa_react/static/js/2.447f8621.chunk.js",
+    "static/js/2.447f8621.chunk.js.map": "/Runa_react/static/js/2.447f8621.chunk.js.map",
+    "index.html": "/Runa_react/index.html",
+    "precache-manifest.ddd80a15e0cc9064df1b38288accbf26.js": "/Runa_react/precache-manifest.ddd80a15e0cc9064df1b38288accbf26.js",
+    "service-worker.js": "/Runa_react/service-worker.js",
+    "static/css/main.7965ddac.chunk.css.map": "/Runa_react/static/css/main.7965ddac.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1937fa71.js",
+    "static/js/2.447f8621.chunk.js",
+    "static/css/main.7965ddac.chunk.css",
+    "static/js/main.a30a8017.chunk.js"
+  ]
+}
