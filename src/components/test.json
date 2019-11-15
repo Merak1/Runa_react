@@ -1,0 +1,960 @@
+{
+  "styles": [
+    "House",
+    "Techno",
+    "Acid"
+  ],
+  "genres": [
+    "Electronic"
+  ],
+  "videos": [
+    {
+      "duration": 380,
+      "description": "Go Ahead London",
+      "embed": true,
+      "uri": "https://www.youtube.com/watch?v=c2XdPPrNfT0",
+      "title": "Go Ahead London"
+    }
+  ],
+  "num_for_sale": 3,
+  "title": "Welcome To Plastic City",
+  "most_recent_release": 266313,
+  "main_release": 266313,
+  "main_release_url": "https://api.discogs.com/releases/266313",
+  "uri": "https://www.discogs.com/Various-Welcome-To-Plastic-City/master/435444",
+  "artists": [
+    {
+      "join": "",
+      "name": "Various",
+      "anv": "",
+      "tracks": "",
+      "role": "",
+      "resource_url": "https://api.discogs.com/artists/194",
+      "id": 194
+    }
+  ],
+  "versions_url": "https://api.discogs.com/masters/435444/versions",
+  "data_quality": "Correct",
+  "most_recent_release_url": "https://api.discogs.com/releases/266313",
+  "year": 1995,
+  "images": [
+    {
+      "uri": "",
+      "height": 541,
+      "width": 600,
+      "resource_url": "",
+      "type": "secondary",
+      "uri150": ""
+    },
+    {
+      "uri": "",
+      "height": 533,
+      "width": 600,
+      "resource_url": "",
+      "type": "secondary",
+      "uri150": ""
+    },
+    {
+      "uri": "",
+      "height": 537,
+      "width": 600,
+      "resource_url": "",
+      "type": "secondary",
+      "uri150": ""
+    },
+    {
+      "uri": "",
+      "height": 542,
+      "width": 600,
+      "resource_url": "",
+      "type": "secondary",
+      "uri150": ""
+    },
+    {
+      "uri": "",
+      "height": 549,
+      "width": 600,
+      "resource_url": "",
+      "type": "secondary",
+      "uri150": ""
+    },
+    {
+      "uri": "",
+      "height": 547,
+      "width": 600,
+      "resource_url": "",
+      "type": "secondary",
+      "uri150": ""
+    },
+    {
+      "uri": "",
+      "height": 545,
+      "width": 600,
+      "resource_url": "",
+      "type": "secondary",
+      "uri150": ""
+    },
+    {
+      "uri": "",
+      "height": 543,
+      "width": 600,
+      "resource_url": "",
+      "type": "secondary",
+      "uri150": ""
+    }
+  ],
+  "resource_url": "https://api.discogs.com/masters/435444",
+  "lowest_price": 5.49,
+  "id": 435444,
+  "tracklist": [
+    {
+      "extraartists": [
+        {
+          "join": "",
+          "name": "Thorsten Adler",
+          "anv": "",
+          "tracks": "",
+          "role": "Producer, Written-By",
+          "resource_url": "https://api.discogs.com/artists/23090",
+          "id": 23090
+        },
+        {
+          "join": "",
+          "name": "Tom Wax",
+          "anv": "DJ Tom Wax",
+          "tracks": "",
+          "role": "Producer, Written-By",
+          "resource_url": "https://api.discogs.com/artists/14674",
+          "id": 14674
+        }
+      ],
+      "title": "Back On Plastic",
+      "type_": "track",
+      "artists": [
+        {
+          "join": "",
+          "name": "AWeX",
+          "anv": "",
+          "tracks": "",
+          "role": "",
+          "resource_url": "https://api.discogs.com/artists/1627",
+          "id": 1627
+        }
+      ],
+      "duration": "6:10",
+      "position": "1-01"
+    },
+    {
+      "extraartists": [
+        {
+          "join": "",
+          "name": "Rocky & Diesel",
+          "anv": "",
+          "tracks": "",
+          "role": "Producer, Written-By",
+          "resource_url": "https://api.discogs.com/artists/28944",
+          "id": 28944
+        },
+        {
+          "join": "",
+          "name": "Norman Feller",
+          "anv": "Norman",
+          "tracks": "",
+          "role": "Remix",
+          "resource_url": "https://api.discogs.com/artists/1566",
+          "id": 1566
+        }
+      ],
+      "title": "The Movement, The Message (Norman Remix)",
+      "type_": "track",
+      "artists": [
+        {
+          "join": "",
+          "name": "Soundcraft",
+          "anv": "",
+          "tracks": "",
+          "role": "",
+          "resource_url": "https://api.discogs.com/artists/4659",
+          "id": 4659
+        }
+      ],
+      "duration": "7:14",
+      "position": "1-02"
+    },
+    {
+      "extraartists": [
+        {
+          "join": "",
+          "name": "Andreas Horwath",
+          "anv": "",
+          "tracks": "",
+          "role": "Producer, Written-By",
+          "resource_url": "https://api.discogs.com/artists/195636",
+          "id": 195636
+        },
+        {
+          "join": "",
+          "name": "Tilmann Bussler",
+          "anv": "",
+          "tracks": "",
+          "role": "Producer, Written-By",
+          "resource_url": "https://api.discogs.com/artists/195637",
+          "id": 195637
+        }
+      ],
+      "title": "Funky Bassline",
+      "type_": "track",
+      "artists": [
+        {
+          "join": "",
+          "name": "Tesox",
+          "anv": "",
+          "tracks": "",
+          "role": "",
+          "resource_url": "https://api.discogs.com/artists/1629",
+          "id": 1629
+        }
+      ],
+      "duration": "6:55",
+      "position": "1-03"
+    },
+    {
+      "extraartists": [
+        {
+          "join": "",
+          "name": "David Wesson",
+          "anv": "Wesson",
+          "tracks": "",
+          "role": "Producer, Written-By",
+          "resource_url": "https://api.discogs.com/artists/604986",
+          "id": 604986
+        },
+        {
+          "join": "",
+          "name": "Doug Osborne",
+          "anv": "Osbourne",
+          "tracks": "",
+          "role": "Producer, Written-By",
+          "resource_url": "https://api.discogs.com/artists/41080",
+          "id": 41080
+        },
+        {
+          "join": "",
+          "name": "Steve Jones",
+          "anv": "Jones",
+          "tracks": "",
+          "role": "Producer, Written-By",
+          "resource_url": "https://api.discogs.com/artists/23741",
+          "id": 23741
+        },
+        {
+          "join": "",
+          "name": "Hardfloor",
+          "anv": "",
+          "tracks": "",
+          "role": "Remix",
+          "resource_url": "https://api.discogs.com/artists/858",
+          "id": 858
+        }
+      ],
+      "title": "Pilgrimage To Paradise (Hardfloor Remix)",
+      "type_": "track",
+      "artists": [
+        {
+          "join": "",
+          "name": "Sourmash",
+          "anv": "",
+          "tracks": "",
+          "role": "",
+          "resource_url": "https://api.discogs.com/artists/68091",
+          "id": 68091
+        }
+      ],
+      "duration": "7:02",
+      "position": "1:04"
+    },
+    {
+      "extraartists": [
+        {
+          "join": "",
+          "name": "Armando",
+          "anv": "",
+          "tracks": "",
+          "role": "Executive Producer",
+          "resource_url": "https://api.discogs.com/artists/870",
+          "id": 870
+        },
+        {
+          "join": "",
+          "name": "Steve Poindexter",
+          "anv": "",
+          "tracks": "",
+          "role": "Producer, Written-By",
+          "resource_url": "https://api.discogs.com/artists/869",
+          "id": 869
+        },
+        {
+          "join": "",
+          "name": "Tesox",
+          "anv": "",
+          "tracks": "",
+          "role": "Remix [Reconstructed By]",
+          "resource_url": "https://api.discogs.com/artists/1629",
+          "id": 1629
+        }
+      ],
+      "title": "Bodyheat 1995",
+      "type_": "track",
+      "artists": [
+        {
+          "join": "versus",
+          "name": "Steve Poindexter",
+          "anv": "",
+          "tracks": "",
+          "role": "",
+          "resource_url": "https://api.discogs.com/artists/869",
+          "id": 869
+        },
+        {
+          "join": "",
+          "name": "Tesox",
+          "anv": "",
+          "tracks": "",
+          "role": "",
+          "resource_url": "https://api.discogs.com/artists/1629",
+          "id": 1629
+        }
+      ],
+      "duration": "6:59",
+      "position": "1-05"
+    },
+    {
+      "extraartists": [
+        {
+          "join": "",
+          "name": "Kriss Dior",
+          "anv": "",
+          "tracks": "",
+          "role": "Producer, Written-By",
+          "resource_url": "https://api.discogs.com/artists/805",
+          "id": 805
+        }
+      ],
+      "title": "Loop 2",
+      "type_": "track",
+      "artists": [
+        {
+          "join": "",
+          "name": "Kriss Dior",
+          "anv": "",
+          "tracks": "",
+          "role": "",
+          "resource_url": "https://api.discogs.com/artists/805",
+          "id": 805
+        }
+      ],
+      "duration": "6:19",
+      "position": "1-06"
+    },
+    {
+      "extraartists": [
+        {
+          "join": "",
+          "name": "Andreas Bollack",
+          "anv": "",
+          "tracks": "",
+          "role": "Producer, Written-By",
+          "resource_url": "https://api.discogs.com/artists/195634",
+          "id": 195634
+        },
+        {
+          "join": "",
+          "name": "Manfred Pachl",
+          "anv": "",
+          "tracks": "",
+          "role": "Producer, Written-By",
+          "resource_url": "https://api.discogs.com/artists/195633",
+          "id": 195633
+        }
+      ],
+      "title": "Mesmerized",
+      "type_": "track",
+      "artists": [
+        {
+          "join": "",
+          "name": "P-Nut (5)",
+          "anv": "",
+          "tracks": "",
+          "role": "",
+          "resource_url": "https://api.discogs.com/artists/456302",
+          "id": 456302
+        }
+      ],
+      "duration": "6:58",
+      "position": "1-07"
+    },
+    {
+      "extraartists": [
+        {
+          "join": "",
+          "name": "Norman Feller",
+          "anv": "Norman",
+          "tracks": "",
+          "role": "Producer",
+          "resource_url": "https://api.discogs.com/artists/1566",
+          "id": 1566
+        },
+        {
+          "join": "",
+          "name": "Terry Lee Brown Jr.",
+          "anv": "Terry Lee Brown Junior",
+          "tracks": "",
+          "role": "Written-By",
+          "resource_url": "https://api.discogs.com/artists/800",
+          "id": 800
+        }
+      ],
+      "title": "Bad House Music",
+      "type_": "track",
+      "artists": [
+        {
+          "join": "",
+          "name": "Terry Lee Brown Jr.",
+          "anv": "Terry Lee Brown Junior",
+          "tracks": "",
+          "role": "",
+          "resource_url": "https://api.discogs.com/artists/800",
+          "id": 800
+        }
+      ],
+      "duration": "6:23",
+      "position": "1-08"
+    },
+    {
+      "extraartists": [
+        {
+          "join": "",
+          "name": "Bizzy",
+          "anv": "",
+          "tracks": "",
+          "role": "Producer, Written-By",
+          "resource_url": "https://api.discogs.com/artists/541344",
+          "id": 541344
+        },
+        {
+          "join": "",
+          "name": "Clanger (2)",
+          "anv": "",
+          "tracks": "",
+          "role": "Producer, Written-By",
+          "resource_url": "https://api.discogs.com/artists/541345",
+          "id": 541345
+        },
+        {
+          "join": "",
+          "name": "Psycho Drums",
+          "anv": "",
+          "tracks": "",
+          "role": "Remix",
+          "resource_url": "https://api.discogs.com/artists/16829",
+          "id": 16829
+        }
+      ],
+      "title": "Desert Storm (Psycho Drums Remix)",
+      "type_": "track",
+      "artists": [
+        {
+          "join": "",
+          "name": "Desert Storm",
+          "anv": "",
+          "tracks": "",
+          "role": "",
+          "resource_url": "https://api.discogs.com/artists/1626",
+          "id": 1626
+        }
+      ],
+      "duration": "5:53",
+      "position": "1-09"
+    },
+    {
+      "extraartists": [
+        {
+          "join": "",
+          "name": "Andreas Horwath",
+          "anv": "",
+          "tracks": "",
+          "role": "Producer, Written-By",
+          "resource_url": "https://api.discogs.com/artists/195636",
+          "id": 195636
+        },
+        {
+          "join": "",
+          "name": "Tilmann Bussler",
+          "anv": "",
+          "tracks": "",
+          "role": "Producer, Written-By",
+          "resource_url": "https://api.discogs.com/artists/195637",
+          "id": 195637
+        }
+      ],
+      "title": "Back To Front",
+      "type_": "track",
+      "artists": [
+        {
+          "join": "",
+          "name": "Skool Phunk",
+          "anv": "",
+          "tracks": "",
+          "role": "",
+          "resource_url": "https://api.discogs.com/artists/4694",
+          "id": 4694
+        }
+      ],
+      "duration": "6:03",
+      "position": "1-10"
+    },
+    {
+      "extraartists": [
+        {
+          "join": "",
+          "name": "Andreas Horwath",
+          "anv": "",
+          "tracks": "",
+          "role": "Producer, Written-By",
+          "resource_url": "https://api.discogs.com/artists/195636",
+          "id": 195636
+        },
+        {
+          "join": "",
+          "name": "Tilmann Bussler",
+          "anv": "",
+          "tracks": "",
+          "role": "Producer, Written-By",
+          "resource_url": "https://api.discogs.com/artists/195637",
+          "id": 195637
+        }
+      ],
+      "title": "Braindead II",
+      "type_": "track",
+      "artists": [
+        {
+          "join": "",
+          "name": "Tesox",
+          "anv": "",
+          "tracks": "",
+          "role": "",
+          "resource_url": "https://api.discogs.com/artists/1629",
+          "id": 1629
+        }
+      ],
+      "duration": "5:43",
+      "position": "1-11"
+    },
+    {
+      "extraartists": [
+        {
+          "join": "",
+          "name": "Norman Feller",
+          "anv": "Norman",
+          "tracks": "",
+          "role": "Producer",
+          "resource_url": "https://api.discogs.com/artists/1566",
+          "id": 1566
+        },
+        {
+          "join": "",
+          "name": "Terry Lee Brown Jr.",
+          "anv": "Terry Lee Brown Junior",
+          "tracks": "",
+          "role": "Written-By",
+          "resource_url": "https://api.discogs.com/artists/800",
+          "id": 800
+        }
+      ],
+      "title": "Tribal Nova",
+      "type_": "track",
+      "artists": [
+        {
+          "join": "",
+          "name": "Terry Lee Brown Jr.",
+          "anv": "Terry Lee Brown Junior",
+          "tracks": "",
+          "role": "",
+          "resource_url": "https://api.discogs.com/artists/800",
+          "id": 800
+        }
+      ],
+      "duration": "7:32",
+      "position": "2-01"
+    },
+    {
+      "extraartists": [
+        {
+          "join": "",
+          "name": "Heigo Tani",
+          "anv": "",
+          "tracks": "",
+          "role": "Producer, Written-By",
+          "resource_url": "https://api.discogs.com/artists/136387",
+          "id": 136387
+        },
+        {
+          "join": "",
+          "name": "Shuji Wada",
+          "anv": "",
+          "tracks": "",
+          "role": "Producer, Written-By",
+          "resource_url": "https://api.discogs.com/artists/631465",
+          "id": 631465
+        }
+      ],
+      "title": "Take It To Love",
+      "type_": "track",
+      "artists": [
+        {
+          "join": "",
+          "name": "Atom",
+          "anv": "",
+          "tracks": "",
+          "role": "",
+          "resource_url": "https://api.discogs.com/artists/436",
+          "id": 436
+        }
+      ],
+      "duration": "7:52",
+      "position": "2-02"
+    },
+    {
+      "extraartists": [
+        {
+          "join": "",
+          "name": "Heimo Wenzel",
+          "anv": "",
+          "tracks": "",
+          "role": "Producer, Written-By",
+          "resource_url": "https://api.discogs.com/artists/254987",
+          "id": 254987
+        },
+        {
+          "join": "",
+          "name": "Manfred Pachl",
+          "anv": "",
+          "tracks": "",
+          "role": "Producer, Written-By",
+          "resource_url": "https://api.discogs.com/artists/195633",
+          "id": 195633
+        }
+      ],
+      "title": "Can't Go In",
+      "type_": "track",
+      "artists": [
+        {
+          "join": "",
+          "name": "Superfly",
+          "anv": "",
+          "tracks": "",
+          "role": "",
+          "resource_url": "https://api.discogs.com/artists/1668",
+          "id": 1668
+        }
+      ],
+      "duration": "9:08",
+      "position": "2-03"
+    },
+    {
+      "extraartists": [
+        {
+          "join": "",
+          "name": "Splat Graphix",
+          "anv": "",
+          "tracks": "",
+          "role": "Producer",
+          "resource_url": "https://api.discogs.com/artists/2638",
+          "id": 2638
+        },
+        {
+          "join": "",
+          "name": "Steffen Isler",
+          "anv": "S. Isler",
+          "tracks": "",
+          "role": "Written-By",
+          "resource_url": "https://api.discogs.com/artists/471579",
+          "id": 471579
+        },
+        {
+          "join": "",
+          "name": "Ulrich J\u00e4rkel",
+          "anv": "U. J\u00e4rkel",
+          "tracks": "",
+          "role": "Written-By",
+          "resource_url": "https://api.discogs.com/artists/471577",
+          "id": 471577
+        },
+        {
+          "join": "",
+          "name": "Walter Merziger",
+          "anv": "W. Merziger",
+          "tracks": "",
+          "role": "Written-By",
+          "resource_url": "https://api.discogs.com/artists/471578",
+          "id": 471578
+        }
+      ],
+      "title": "Splat Graphix",
+      "type_": "track",
+      "artists": [
+        {
+          "join": "",
+          "name": "Splat Graphix",
+          "anv": "",
+          "tracks": "",
+          "role": "",
+          "resource_url": "https://api.discogs.com/artists/2638",
+          "id": 2638
+        }
+      ],
+      "duration": "6:11",
+      "position": "2-04"
+    },
+    {
+      "extraartists": [
+        {
+          "join": "",
+          "name": "Thorsten Adler",
+          "anv": "",
+          "tracks": "",
+          "role": "Producer, Written-By",
+          "resource_url": "https://api.discogs.com/artists/23090",
+          "id": 23090
+        },
+        {
+          "join": "",
+          "name": "Tom Wax",
+          "anv": "DJ Tom Wax",
+          "tracks": "",
+          "role": "Producer, Written-By",
+          "resource_url": "https://api.discogs.com/artists/14674",
+          "id": 14674
+        }
+      ],
+      "title": "Darkside",
+      "type_": "track",
+      "artists": [
+        {
+          "join": "",
+          "name": "AWeX",
+          "anv": "",
+          "tracks": "",
+          "role": "",
+          "resource_url": "https://api.discogs.com/artists/1627",
+          "id": 1627
+        }
+      ],
+      "duration": "5:06",
+      "position": "2-05"
+    },
+    {
+      "extraartists": [
+        {
+          "join": "",
+          "name": "Andreas Horwath",
+          "anv": "",
+          "tracks": "",
+          "role": "Producer, Written-By",
+          "resource_url": "https://api.discogs.com/artists/195636",
+          "id": 195636
+        },
+        {
+          "join": "",
+          "name": "Tilmann Bussler",
+          "anv": "",
+          "tracks": "",
+          "role": "Producer, Written-By",
+          "resource_url": "https://api.discogs.com/artists/195637",
+          "id": 195637
+        }
+      ],
+      "title": "Go Ahead London",
+      "type_": "track",
+      "artists": [
+        {
+          "join": "",
+          "name": "Tesox",
+          "anv": "",
+          "tracks": "",
+          "role": "",
+          "resource_url": "https://api.discogs.com/artists/1629",
+          "id": 1629
+        }
+      ],
+      "duration": "6:17",
+      "position": "2-06"
+    },
+    {
+      "extraartists": [
+        {
+          "join": "",
+          "name": "Andreas Horwath",
+          "anv": "",
+          "tracks": "",
+          "role": "Producer, Written-By",
+          "resource_url": "https://api.discogs.com/artists/195636",
+          "id": 195636
+        },
+        {
+          "join": "",
+          "name": "Tilmann Bussler",
+          "anv": "",
+          "tracks": "",
+          "role": "Producer, Written-By",
+          "resource_url": "https://api.discogs.com/artists/195637",
+          "id": 195637
+        }
+      ],
+      "title": "Memory",
+      "type_": "track",
+      "artists": [
+        {
+          "join": "",
+          "name": "Skool Phunk",
+          "anv": "",
+          "tracks": "",
+          "role": "",
+          "resource_url": "https://api.discogs.com/artists/4694",
+          "id": 4694
+        }
+      ],
+      "duration": "6:42",
+      "position": "2-07"
+    },
+    {
+      "extraartists": [
+        {
+          "join": "",
+          "name": "Jean F. Cochois",
+          "anv": "Frank Cochois",
+          "tracks": "",
+          "role": "Producer, Written-By",
+          "resource_url": "https://api.discogs.com/artists/111265",
+          "id": 111265
+        },
+        {
+          "join": "",
+          "name": "Atom",
+          "anv": "",
+          "tracks": "",
+          "role": "Remix [Uncredited]",
+          "resource_url": "https://api.discogs.com/artists/436",
+          "id": 436
+        }
+      ],
+      "title": "Soul Freak Music",
+      "type_": "track",
+      "artists": [
+        {
+          "join": "",
+          "name": "The Timewriter",
+          "anv": "",
+          "tracks": "",
+          "role": "",
+          "resource_url": "https://api.discogs.com/artists/30256",
+          "id": 30256
+        }
+      ],
+      "duration": "7:27",
+      "position": "2-08"
+    },
+    {
+      "extraartists": [
+        {
+          "join": "",
+          "name": "Thorsten Adler",
+          "anv": "",
+          "tracks": "",
+          "role": "Producer, Written-By",
+          "resource_url": "https://api.discogs.com/artists/23090",
+          "id": 23090
+        },
+        {
+          "join": "",
+          "name": "Tom Wax",
+          "anv": "DJ Tom Wax",
+          "tracks": "",
+          "role": "Producer, Written-By",
+          "resource_url": "https://api.discogs.com/artists/14674",
+          "id": 14674
+        },
+        {
+          "join": "",
+          "name": "Jean F. Cochois",
+          "anv": "Frank Cochois",
+          "tracks": "",
+          "role": "Remix",
+          "resource_url": "https://api.discogs.com/artists/111265",
+          "id": 111265
+        },
+        {
+          "join": "",
+          "name": "The Timewriter",
+          "anv": "Timewriter",
+          "tracks": "",
+          "role": "Remix",
+          "resource_url": "https://api.discogs.com/artists/30256",
+          "id": 30256
+        }
+      ],
+      "title": "It's Our Future (Timewriter Remix)",
+      "type_": "track",
+      "artists": [
+        {
+          "join": "",
+          "name": "AWeX",
+          "anv": "",
+          "tracks": "",
+          "role": "",
+          "resource_url": "https://api.discogs.com/artists/1627",
+          "id": 1627
+        }
+      ],
+      "duration": "6:12",
+      "position": "2-09"
+    },
+    {
+      "extraartists": [
+        {
+          "join": "",
+          "name": "Heigo Tani",
+          "anv": "",
+          "tracks": "",
+          "role": "Producer, Written-By",
+          "resource_url": "https://api.discogs.com/artists/136387",
+          "id": 136387
+        },
+        {
+          "join": "",
+          "name": "Shuji Wada",
+          "anv": "",
+          "tracks": "",
+          "role": "Producer, Written-By",
+          "resource_url": "https://api.discogs.com/artists/631465",
+          "id": 631465
+        }
+      ],
+      "title": "Love To Heart",
+      "type_": "track",
+      "artists": [
+        {
+          "join": "",
+          "name": "Atom",
+          "anv": "",
+          "tracks": "",
+          "role": "",
+          "resource_url": "https://api.discogs.com/artists/436",
+          "id": 436
+        }
+      ],
+      "duration": "6:43",
+      "position": "2-10"
+    }
+  ]
+}
